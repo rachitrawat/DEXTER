@@ -1,7 +1,8 @@
 # DEXTER
 Age and Gender prediction using Wide Residual Networks
 
-Abstract—In this project, we introduce a deep learning solution
+## Abstract
+In this project, we introduce a deep learning solution
 to age and gender estimation from a single face image. For both
 prediction tasks, a single Convolutional Neural Network (CNN) of
 Wide Residual Network (WRN-16-8) architecture is used. We
