@@ -16,3 +16,5 @@ faces from the IMDB-WIKI dataset.
 | 4.89      | 97.14%            | 5.0             | 3184          |
 | 5.38      | 96.80%            | 4.0             | 11312         |
 | 6.01      | 96.37%            | 3.0             | 21608         |
+
+Technical report: [Link](https://github.com/rachitrawat/DEXTER/blob/master/report.pdf)
